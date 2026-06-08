@@ -82,8 +82,7 @@ radio_coverage_web_app/
 │   ├── index.html
 │   └── package.json
 ├── docs/
-│   ├── APLICACION_WEB_COBERTURA_RADIOELECTRICA.md
-│   └── REPORTE_DESCRIPTIVO_PROYECTO.md
+│   └── APLICACION_WEB_COBERTURA_RADIOELECTRICA.md
 ├── docker-compose.yml
 └── README.md
 ```
